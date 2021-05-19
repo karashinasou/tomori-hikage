@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/tomori-hikage">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomori-hikage&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomori-hikage&layout=compact&theme=tokyonight">
   </a>
 </p>
