@@ -1,5 +1,7 @@
 ﻿## 📊 Stats
 
+<link href="https://github.com/tomori-hikage/tomori-hikage/blob/main/README.css" rel="stylesheet"></link>
+
 <div>
   <a href="https://github.com/tomori-hikage">
     <img height="180" img src="https://github-readme-stats.vercel.app/api?username=tomori-hikage&count_private=true&show_icons=true&include_all_commits=true&theme=nord">
