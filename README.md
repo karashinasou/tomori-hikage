@@ -1,4 +1,4 @@
-﻿## 📝 GitHub Readme Stats
+﻿## 📊 Stats
 
 <p align="center">
   <a href="https://github.com/tomori-hikage">
